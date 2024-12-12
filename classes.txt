@@ -1,0 +1,7 @@
+classes:
+personnes: nom - prenom - CIN - nationalité - genre
+voyageurs : passport - bagages - list_tickets
+Employé : poste - salaire - nbr_heures 
+tickets : lieu_dep - lieu_dest - date_d'achat - date_dep - id - prix - date_arr
+avion : nbr_place - num_serie - poids_max - pilote - nbr_place_dispo
+aéroport : list_avion - list_employé - list_voyageurs - lieu 
